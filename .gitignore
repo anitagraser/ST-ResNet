@@ -133,3 +133,4 @@ datasets/TaxiBJ/*.h5
 datasets/TaxiBJ/*.txt
 datasets/BikeNYC/*.h5
 datasets/BikeNYC/*.txt
+autogluon-bikenyc
